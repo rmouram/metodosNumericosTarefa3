@@ -1,0 +1,9 @@
+Rômulo Ferreira Moura Maia
+378612
+
+Códigos feitos em python, unica biblioteca nescessária é o numpy:
+link do github para os executáveis: https://github.com/rmouram/metodosNumericosTarefa3
+
+ficou enorme, mais de 1gb o tamanho total dos executáveis.
+
+Segue os codigos e o pdf da tarefa.
